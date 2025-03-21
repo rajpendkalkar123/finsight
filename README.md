@@ -19,6 +19,7 @@ FinSight is a modern Flutter application that leverages AI to provide intelligen
 - Google Gemini API key
 - Firebase project (for data persistence)
 
+![image](https://github.com/user-attachments/assets/42c22347-ba34-4202-afba-444327ea8f55)
 
 
 ## Project Structure
